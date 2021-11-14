@@ -1,4 +1,3 @@
-/* eslint-disable no-invalid-this */
 import MagicString from "magic-string";
 
 /** @type {import("rollup").PluginImpl} */
