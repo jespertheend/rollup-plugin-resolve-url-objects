@@ -1,6 +1,6 @@
 {
   "name": "rollup-plugin-resolve-url-objects",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Resolve and bundle the contents of a string in new URL().",
   "main": "./main.js",
   "type": "module",
