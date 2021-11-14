@@ -9,6 +9,7 @@
     "javascript",
     "modules"
   ],
+  "repository": "https://github.com/jespertheend/rollup-plugin-resolve-url-objects",
   "author": "Jesper van den Ende",
   "license": "MIT",
   "dependencies": {
