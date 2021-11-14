@@ -1,0 +1,17 @@
+{
+  "name": "rollup-plugin-resolve-url-objects",
+  "version": "1.0.0",
+  "description": "Resolve and bundle the contents of a string in new URL().",
+  "main": "./main.js",
+  "keywords": [
+    "rollup",
+    "rollup-plugin",
+    "javascript",
+    "modules"
+  ],
+  "author": "Jesper van den Ende",
+  "license": "MIT",
+  "dependencies": {
+    "magic-string": "^0.25.7"
+  }
+}
