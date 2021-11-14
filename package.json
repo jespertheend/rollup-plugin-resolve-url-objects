@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "description": "Resolve and bundle the contents of a string in new URL().",
   "main": "./main.js",
+  "type": "module",
   "keywords": [
     "rollup",
     "rollup-plugin",
