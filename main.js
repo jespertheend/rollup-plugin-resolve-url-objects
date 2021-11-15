@@ -18,6 +18,7 @@ export default function resolveUrlObjects() {
 				const chunkRefId = this.emitFile({
 					type: "chunk",
 					id: workerResolveResult.id,
+					importer: id,
 				});
 				const newUrl = `import.meta.ROLLUP_FILE_URL_${chunkRefId}`;
 				magicString.overwrite(startUrlIndex, endUrlIndex, newUrl);
